@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\bin\Debug\proyecto10.5.exe.config
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\bin\Debug\proyecto10.5.exe
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\bin\Debug\proyecto10.5.pdb
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\obj\Debug\proyecto10.5.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\obj\Debug\proyecto10.5.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\obj\Debug\proyecto10.5.exe
+D:\Programas\Cursos\C# ya\Valores-mayor-o-igual-a-1000\proyecto10.5\proyecto10.5\obj\Debug\proyecto10.5.pdb
